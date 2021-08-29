@@ -45,6 +45,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     #define RGB_MATRIX_HUE_STEP 10
     #define RGB_MATRIX_SAT_STEP 10
     #define RGB_MATRIX_VAL_STEP 10
+    #define RGB_DISABLE_WHEN_USB_SUSPENDED true
 #endif
 
 #ifdef AUDIO_ENABLE
